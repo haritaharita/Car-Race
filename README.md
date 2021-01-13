@@ -6,5 +6,5 @@
 * The final score will be posted according to the finishing position.<br>
 * A pretty UI<br>
 
-Code Editor Used: ***VS Code***
+Code Editor Used: ***VS Code***<br>
 Language and Libraries: ***HTML, CSS, Javascript***
