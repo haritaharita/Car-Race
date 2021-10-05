@@ -1,4 +1,4 @@
-Preview:https://unrealistic-axes.000webhostapp.com/CarRace/index.html
+Preview:https://car-race.tiiny.site/
 # Car-Race Game
 
 * The theme of car racing game is to compete with other opponents that are controlled by computer in a racing match.<br>
